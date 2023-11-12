@@ -11,5 +11,7 @@ class Main {
           x = lista[i];
 
     System.out.println("Resultado: " + x);
+
+    // Atualização para a próxima aula
   }
 }
